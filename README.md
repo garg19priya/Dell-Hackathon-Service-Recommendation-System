@@ -24,9 +24,9 @@ Key capabilities include:
 
 # Install guide
 
-Clone repository git clone https://github.com/garg19priya/Dell-Hackathon-Service-Recommendation-System
+Clone repository git clone https://github.com/garg19priya/Dell-Hackathon-Service-Recommendation-System.git
 
-Change Directory to the repo cd dell-hackathon-submission
+Change Directory to the repo cd Dell-Hackathon-Service-Recommendation-System
 
 Install requirements sudo pip3 install -r requirements.txt
 
